@@ -45,18 +45,20 @@ I am a passionate builder focused on [mention 1-2 core interests, e.g., scalable
 ### 📫 Connect with me:
 [LinkedIn](https://linkedin.com) | [Portfolio Site](https://yourwebsite.com) | [Email](mailto:your@email.com)
 
-### Title
-This project is a high-performance C# Windows Forms application designed to manage multiple World of Warcraft (WoW) accounts simultaneously. It automates the login process, maintains active sessions via anti-AFK mechanics, and provides a multi-threaded key-spamming utility.
-Core Features
-Automated Account Management: Allows users to select an account from a stored list for instant login or seamless switching between active game windows.
-Dynamic Realm Handling: Automatically detects if the current game client matches the required realm; if not, it updates the realm file and launches a fresh client instance.
-Intelligent Login & Character Selection: Reads game states (login screen, character selection) to automatically input credentials and enter the game world with a pre-selected character.
-Advanced Anti-AFK System: Keeps multiple characters online by simulating randomized movement and jumping patterns, preventing inactivity-based disconnections.
-Multi-Threaded Key Spammer: Enables users to send custom key combinations to specific game windows at user-defined intervals. 
-Technical Implementation
-P/Invoke & Win32 API: Leverages user32.dll and kernel32.dll to perform low-level window management and simulate keyboard input directly to game clients.
-High-Concurrency Architecture: Spawns independent threads for each account and spam task to ensure non-blocking performance across multiple game instances.
-Thread Safety & Synchronization: Employs atomic read-modify-write operations on shared variables to maintain state integrity and prevent race conditions in a multi-threaded environment.
+* Engineered a C-based DLL for process injection using **Reverse Engineering** and **Inline Assembly** to hook native functions.  
+* Architected a cross-platform build pipeline using **Clang/Makefiles** on Linux targeting Windows environments.  
+  **Real-Time Network Telemetry & Automation Suite (C\#)** | \[GitHub\]  
+* Developed a multi-threaded application using **Winsock hooks** to parse TCP/UDP traffic for real-time data extraction.  
+* Designed an event-driven WinForms dashboard to manage complex automation filtering logic and telemetry visualization.
+
+**ADDITIONAL TECHNICAL PORTFOLIO**
+
+* **Network Infrastructure Automation (Bash/Lua):** Developed custom scripts to automate routing table updates and monitor network latency across distributed nodes.  
+* **Legacy Application Suite (Delphi/Pascal):** Designed and maintained several desktop utilities for database management and local file encryption.  
+* **Cross-Platform CLI Utilities (C++):** Built a series of terminal-based tools for rapid file indexing and multi-threaded data processing.  
+* **Embedded Logic Controller (C):** \[Short description of your 6th project here\].
+
+i-threaded environment.
 Data Persistence: Uses a DataSet backed by an XML file system for lightweight, portable storage of account credentials and configuration data. 
 Getting Started
 Clone the Repository: Use the GitHub Desktop client or run git clone <your-repo-url>.
