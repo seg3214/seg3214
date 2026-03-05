@@ -45,7 +45,7 @@ I am a passionate builder focused on [mention 1-2 core interests, e.g., scalable
 ### 📫 Connect with me:
 [LinkedIn](https://linkedin.com) | [Portfolio Site](https://yourwebsite.com) | [Email](mailto:your@email.com)
 
-![App Demo](./assets/demo.gif)
+![App Demo](./assets/1.gif)
 asdf
 <p align="center"><img src="./assets/demo.gif" width="600" /></p>
 * Engineered a C-based DLL for process injection using **Reverse Engineering** and **Inline Assembly** to hook native functions.  
