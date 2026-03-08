@@ -45,9 +45,9 @@ I am a passionate builder focused on [mention 1-2 core interests, e.g., scalable
 ### 📫 Connect with me:
 [LinkedIn](https://linkedin.com) | [Portfolio Site](https://yourwebsite.com) | [Email](mailto:your@email.com)
 
-![App Demo](./assets/1.gif)demo
-asdf
-<p align="center"><img src="./assets/1.gif" width="600" />demo</p>
+![App Demo](./assets/Animation4.gif)
+
+
 * Engineered a C-based DLL for process injection using **Reverse Engineering** and **Inline Assembly** to hook native functions.  
 * Architected a cross-platform build pipeline using **Clang/Makefiles** on Linux targeting Windows environments.  
   **Real-Time Network Telemetry & Automation Suite (C\#)** | \[GitHub\]  
