@@ -29,4 +29,4 @@ A lightweight assistant designed to streamline gameplay and automation tasks wit
 ## ⚖️ License
 All my work is licensed under **AGPL 3.0**. I believe in open, transparent software—if you use or modify my code, keep it open!
 
-📫 **Connect with me:** [LinkedIn Link] | [Email Address]
+📫 **Connect with me:** [Email Address](mailto:seg3214@gmail.com) [LinkedIn Link](http://linkedin.com)
